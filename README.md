@@ -1,4 +1,4 @@
-# Ecommerce Customer Churn Analysis and Prediction
+# E-commerce Customer Churn Analysis and Prediction
 
 ## Table of Contents
 - [Overview](#overview)
